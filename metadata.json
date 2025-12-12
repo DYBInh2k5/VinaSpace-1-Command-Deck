@@ -1,0 +1,5 @@
+{
+  "name": "VinaSpace-1 Command Deck",
+  "description": "A 3D interactive spaceship cockpit simulation powered by Gemini 2.5. Features a warp-capable starfield, interactive dashboard, and an AI-integrated ship computer.",
+  "requestFramePermissions": []
+}
